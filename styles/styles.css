@@ -35,9 +35,7 @@ aside img {
     width: 200px;
     height: auto;
 }
-p {
-    padding: 0;
-}
+
 /* img {
     width: 150px;
     height: auto;
@@ -47,17 +45,10 @@ p {
 } */
 
 p {
-    padding: 10px;
+    padding: 0;
 }
-
-
-
-
-
-
-
 footer {
     margin-top: 1em;
     border-top: 1px solid #000;
-    text-align: centre;
+    text-align: center;
 }
